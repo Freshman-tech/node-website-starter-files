@@ -1,0 +1,36 @@
+{
+  "profiles": [
+    {
+      "firstname": "Tom",
+      "lastname": "Jagger",
+      "bio":
+        "Lorem ipsum dolor sit amet, oratio feugiat sed te, hinc ancillae cum ut. Ad explicari argumentum duo. Sea dicant iriure utroque ei, in duo meis solet. Eum id reque legendos prodesset, his ad solet ceteros. At pri duis recusabo ocurreret, saepe fabellas sed ad, at iudico constituam mel. \n\n Id zril intellegat efficiendi sed, at vel eros vidit. Modus signiferumque ex his, dicant consulatu definitionem ea has. Qui at ubique debitis, cu eripuit inciderint nam. Sit ei admodum interesset mediocritatem. Prima quando suavitate vel an, illum scaevola efficiendi vim ne.",
+      "tagline": "Developer, Writer and Speaker",
+      "twitter": "https://twitter.com/",
+      "imgSrc": "tom-jagger.jpg",
+      "id": "tom"
+    },
+
+    {
+      "firstname": "Sarah",
+      "lastname": "You",
+      "bio":
+        "Lorem ipsum dolor sit amet, oratio feugiat sed te, hinc ancillae cum ut. Ad explicari argumentum duo. Sea dicant iriure utroque ei, in duo meis solet. Eum id reque legendos prodesset, his ad solet ceteros. At pri duis recusabo ocurreret, saepe fabellas sed ad, at iudico constituam mel. \n\n Id zril intellegat efficiendi sed, at vel eros vidit. Modus signiferumque ex his, dicant consulatu definitionem ea has. Qui at ubique debitis, cu eripuit inciderint nam. Sit ei admodum interesset mediocritatem. Prima quando suavitate vel an, illum scaevola efficiendi vim ne.",
+      "tagline": "UX/UI Designer",
+      "twitter": "https://twitter.com/",
+      "imgSrc": "sarah-you.jpg",
+      "id": "sarah"
+    },
+
+    {
+      "firstname": "Caroline",
+      "lastname": "Green",
+      "bio":
+        "Lorem ipsum dolor sit amet, oratio feugiat sed te, hinc ancillae cum ut. Ad explicari argumentum duo. Sea dicant iriure utroque ei, in duo meis solet. Eum id reque legendos prodesset, his ad solet ceteros. At pri duis recusabo ocurreret, saepe fabellas sed ad, at iudico constituam mel. \n\n Id zril intellegat efficiendi sed, at vel eros vidit. Modus signiferumque ex his, dicant consulatu definitionem ea has. Qui at ubique debitis, cu eripuit inciderint nam. Sit ei admodum interesset mediocritatem. Prima quando suavitate vel an, illum scaevola efficiendi vim ne.",
+      "tagline": "Consultant and Photographer",
+      "twitter": "https://twitter.com/",
+      "imgSrc": "caroline-green.jpg",
+      "id": "caroline"
+    }
+  ]
+}
