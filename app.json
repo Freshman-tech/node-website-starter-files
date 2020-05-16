@@ -1,0 +1,6 @@
+{
+  "name": "pug template",
+  "description": "A template for pug Node.js-apps deployed on Heroku",
+  "repository": "https://github.com/BastisBastis/PugTemplate",
+  "keywords": ["node"]
+}
