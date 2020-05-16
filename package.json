@@ -2,7 +2,7 @@
   "name": "simple-node-website",
   "version": "0.1.0",
   "description": "A simple website built with Node, Express and Pug",
-  "main": "server.js",
+  "main": "index.js",
   "scripts": {
     "start": ""
   },
@@ -11,8 +11,5 @@
   "dependencies": {
     "express": "^4.16.3",
     "pug": "^2.0.3"
-  },
-  "devDependencies": {
-    "nodemon": "^1.19.0"
   }
 }
