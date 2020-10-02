@@ -1,6 +1,6 @@
 ![Screenshot](https://res.cloudinary.com/turnup/image/upload/v1526512881/homepage-cards.png)
 
-# First Node Website Tutorial Starter Files
+# First Amazing Node Website Tutorial Starter Files
 
 These are the starter files to accompany the tutorial for building a simple Node.js website with Express and Pug.
 
